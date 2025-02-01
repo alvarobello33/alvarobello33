@@ -21,7 +21,7 @@
 - 📞 +34 722 116 363
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/alvarobello33">
