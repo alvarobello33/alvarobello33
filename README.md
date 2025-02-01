@@ -2,7 +2,7 @@
   
 **🌎 Select your language / Selecciona tu idioma**  
 <br>
-[🇺🇸 English](README.en.md) | [🇪🇸 Español](https://github.com/alvarobello33)
+[🇺🇸 English](https://github.com/alvarobello33) | [🇪🇸 Español](README.es.md)
 </div>
 <br>
 
