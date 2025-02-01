@@ -1,22 +1,22 @@
 <div align="right">
   
-**🌎 Select your language / Selecciona tu idioma**
+**🌎 Select your language / Selecciona tu idioma**  
 <br>
-[🇺🇸 English](https://github.com/alvarobello33) | [🇪🇸 Español](README.es.md)
+[🇺🇸 English](README.en.md) | [🇪🇸 Español](https://github.com/alvarobello33)
 </div>
 <br>
 
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://github.com/alvarobello33">alvarobello33</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/alvarobello33">alvarobello33</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/vFiXUwc.png">
 <br>
 
-## Sobre mí
+## About Me
 - 📍 Barcelona, Spain
-- 🧑‍🎓 Estudiante de 4o año de Ingeniería informática en [La Salle](https://www.salleurl.edu/es)
-- 🔎 Interesado en la ciberseguridad y en trabajar en algún proyecto relacionado con este ámbito
-- 🌱 En constante aprendizaje de nuevas tecnologías
+- 🧑‍🎓 4th-year Computer Engineering student at [La Salle](https://www.salleurl.edu/es)
+- 🔎 Interested in cybersecurity and in working on projects related to this field
+- 🌱 Constantly learning new technologies
 - 📧 alvaro.bello.garrido@gmail.com
 - 📞 +34 722 116 363
 <br>
@@ -29,3 +29,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alvarobello33&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
