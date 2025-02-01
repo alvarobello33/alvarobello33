@@ -13,7 +13,7 @@
 <br>
 
 ## Sobre mí
-- 📍 Barcelona, Spain
+- 📍 Barcelona, España
 - 🧑‍🎓 Estudiante de 4o año de Ingeniería informática en [La Salle](https://www.salleurl.edu/es)
 - 🔎 Interesado en la ciberseguridad y en trabajar en algún proyecto relacionado con este ámbito
 - 🌱 En constante aprendizaje de nuevas tecnologías
