@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-<h1 align="center">Hi, I'm <a href="https://github.com/alvarobello33">alvarobello33</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/alvarobello33">Alvaro Bello</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/vFiXUwc.png">
 <br>
